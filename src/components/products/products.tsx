@@ -11,13 +11,13 @@ const Products = () => (
         <NavLink to="/products/1">1</NavLink>
       </li>
       <li>
-        <NavLink to="/products/1">2</NavLink>
+        <NavLink to="/products/2">2</NavLink>
       </li>
       <li>
-        <NavLink to="/products/1">3</NavLink>
+        <NavLink to="/products/3">3</NavLink>
       </li>
       <li>
-        <NavLink to="/products/1">4</NavLink>
+        <NavLink to="/products/4">4</NavLink>
       </li>
     </ul>
   </section>
